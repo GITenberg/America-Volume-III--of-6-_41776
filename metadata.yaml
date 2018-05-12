@@ -1,0 +1,28 @@
+_repo: America-Volume-III--of-6-_41776
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, Joel
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '34171'
+    url: http://www.gutenberg.org/2009/agents/34171
+description: ''
+gutenberg_issued: '2013-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcc 'E151'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Canada -- Description and travel'
+title: America, Volume 3 (of 6)
+url: http://www.gutenberg.org/ebooks/41776
